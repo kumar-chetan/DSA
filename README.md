@@ -11,3 +11,7 @@ Topics Cover :-
 3. PseudoCode
 
 
+Lecture 2 :- (02 October 2022 20:00)
+
+ First Program in C++
+ 
