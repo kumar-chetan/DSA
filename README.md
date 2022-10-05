@@ -22,3 +22,12 @@ Lecture 2 :- (02 October 2022 20:00)
  4. How Data store in Memory (positive or negative )
  5. Operators 
  
+ Lecture 3 :- (03 October 2022 20:00)
+ 
+If-Else, While loop & Lots of Patterns (Part-1)
+
+Topics Cover :-
+1. Conditionals
+2. Loops
+3. Patterns
+
