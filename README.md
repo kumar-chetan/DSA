@@ -31,3 +31,15 @@ Topics Cover :-
 2. Loops
 3. Patterns
 
+Lecture 4 :- (04 October 2022 20:00)
+
+Solving Pattern Questions (Part-2) 
+
+Topics Cover :-
+1. Pattern's(easy)
+2. Pattern's(difficult)
+
+
+
+
+
