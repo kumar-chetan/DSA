@@ -413,25 +413,117 @@ int main(){
     // B C D
     // A B C D 
 
+//     int n ;
+//     cout<<"Enter a Number :";
+//     cin>>n;
+
+//     int i = 1 ;
+
+//     while(i<=n){
+
+//         int j=1 ;
+//         char ch = 'A'+n-i;
+//         while(j<=i){
+
+            
+//             cout<<ch<<" ";
+//             ch=ch+1;
+//             j=j+1;
+//         }
+//         cout<<endl;
+//         i=i+1;
+//     }
+    //Pattern 16 :-
+    //       *
+    //     * *
+    //   * * *
+    // * * * *
+
+    // int n ;
+    // cout<<"Enter a Number :";   
+    // cin>>n;
+
+    // int i=1;
+
+    // while(i<=n){
+
+    //     int s=n-i;
+    //     while(s){
+    //         cout<<"  ";
+    //         s=s-1;
+    //     }
+    //     int j=1 ;
+
+    //     while(j<=i){
+    //         cout<<"* ";
+    //         j=j+1;
+    //     }
+    //     cout<<endl;
+    //     i=i+1;
+        
+
+    // }
+
+
+    // Pattern 17 :-
+
+    // * * * * 
+    // * * *
+    // * * 
+    // *
+
+    // int n ;
+    // cout<<"Enter a Number :";
+    // cin>>n;
+
+    // int i =1 ;
+
+    // while(i<=n){
+
+    //     int j =1 ;
+
+    //     while(j<=n-i+1){
+
+    //         cout<<"* ";  
+    //         j=j+1;
+    //     }
+    //     cout<<endl;
+    //     i=i+1;
+
+    // }
+
+    // Pattern 18 :-
+
+    // * * * * 
+    //   * * * 
+    //     * *
+    //       *
+
+
     int n ;
     cout<<"Enter a Number :";
     cin>>n;
 
-    int i = 1 ;
+    int i=1;
 
     while(i<=n){
 
-        int j=1 ;
-        char ch = 'A'+n-i;
-        while(j<=i){
-
+        
+        int s=1;
+        while(s<i){
             
-            cout<<ch<<" ";
-            ch=ch+1;
+            cout<<" ";
+            s=s+1;
+
+        }
+        int j =1 ;
+        while(j<=n-i+1){
+            cout<<"*";
             j=j+1;
         }
         cout<<endl;
         i=i+1;
+
     }
 
 }
