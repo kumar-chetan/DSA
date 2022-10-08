@@ -39,7 +39,7 @@ Topics Cover :-
 1. Pattern's(easy)
 2. Pattern's(difficult)
 
-
+Lecture 5 :- (05 October 2022 20:00)
 
 
 
