@@ -41,5 +41,10 @@ Topics Cover :-
 
 Lecture 5 :- (05 October 2022 20:00)
 
+Bitwise Operators, For Loops, Operator Precedence & Variable Scoping
+
+1. Bitwise Operators ( & , | , ~ , ^ ,<< ,>> )
+2. for Loop 
+
 
 
