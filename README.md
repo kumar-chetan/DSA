@@ -45,6 +45,9 @@ Bitwise Operators, For Loops, Operator Precedence & Variable Scoping
 
 1. Bitwise Operators ( & , | , ~ , ^ ,<< ,>> )
 2. for Loop 
+3. Variables and Scope
+4. Operator Precedence
+5. LeetCode Questions
 
 
 
