@@ -49,5 +49,7 @@ Bitwise Operators, For Loops, Operator Precedence & Variable Scoping
 4. Operator Precedence
 5. LeetCode Questions
 
+Lecture 6:- (06 October 2022 20:00)
 
+Binary & Decimal Number System
 
