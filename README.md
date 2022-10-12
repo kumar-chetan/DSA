@@ -53,3 +53,7 @@ Lecture 6:- (06 October 2022 20:00)
 
 Binary & Decimal Number System
 
+1. 
+2. 
+3. 
+
