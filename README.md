@@ -57,7 +57,10 @@ Binary & Decimal Number System
 2. 
 3. 
 
-Lecture 7:- (06 October 2022 20:00)
+Lecture 7:- (07 October 2022 20:00)
 
 LeetCode Problem Solving Session
 
+
+
+Lecture 8:- (08 October 2022 20:00)
