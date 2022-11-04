@@ -61,6 +61,9 @@ Lecture 7:- (07 October 2022 20:00)
 
 LeetCode Problem Solving Session
 
+1.Reverse Integer
+2.Complement of Base 10 Integer
+3.Power of Two
 
 
 Lecture 8:- (08 October 2022 20:00)
