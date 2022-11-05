@@ -53,9 +53,9 @@ Lecture 6:- (06 October 2022 20:00)
 
 Binary & Decimal Number System
 
-1. 
-2. 
-3. 
+1. Decimal and Binary System
+2. Decimal and Binary System(Negative no.)
+3. Binary to Decimal System
 
 Lecture 7:- (07 October 2022 20:00)
 
