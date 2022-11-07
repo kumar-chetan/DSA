@@ -74,3 +74,8 @@ Lecture 8:- (08 October 2022 20:00)
 Lecture 9:- (09 October 2022 20:00)
 
 Introduction to Arrays in C++
+
+Lecture 10:- (10 October 2022 20:00)
+
+Solving LeetCode/CodeStudio Questions [Arrays]
+
